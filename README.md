@@ -77,7 +77,7 @@ Based on our benchmarks with Shakespeare text generation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/my-efficient-gpt.git
+git clone https://github.com/comsa33/my-efficient-gpt.git
 cd my-efficient-gpt
 
 # Install dependencies with uv (recommended)
@@ -210,9 +210,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{efficient_gpt,
   title = {Efficient GPT: Brain-Inspired Optimizations for Transformers},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/my-efficient-gpt}
+  author = {Ruo Lee},
+  year = {2025},
+  url = {https://github.com/comsa33/my-efficient-gpt}
 }
 ```
 

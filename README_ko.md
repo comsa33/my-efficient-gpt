@@ -77,7 +77,7 @@ nanoGPT에 뇌과학 기반 효율성 메커니즘을 적용하여 생성 품질
 
 ```bash
 # 저장소 클론
-git clone https://github.com/yourusername/my-efficient-gpt.git
+git clone https://github.com/comsa33/my-efficient-gpt.git
 cd my-efficient-gpt
 
 # uv로 의존성 설치 (권장)
@@ -210,9 +210,9 @@ uv run python simple_demo.py
 ```bibtex
 @software{efficient_gpt,
   title = {Efficient GPT: Brain-Inspired Optimizations for Transformers},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/my-efficient-gpt}
+  author = {Ruo Lee},
+  year = {2025},
+  url = {https://github.com/comsa33/my-efficient-gpt}
 }
 ```
 
